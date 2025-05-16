@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      pacman-contribution-graph:
+        specifier: ^1.0.14
+        version: 1.0.14
+
+packages:
+
+  pacman-contribution-graph@1.0.14:
+    resolution: {integrity: sha512-7aJIsX1Sxp/CerSWNXky5dOVvqzcgYumEN6r3FJnxzW32grXVZibYgB3kmYZoIpkv8zuUHiDwIKxEZagLB3dBA==}
+
+snapshots:
+
+  pacman-contribution-graph@1.0.14: {}
